@@ -23,45 +23,75 @@
 
 ## 🧭 About me
 
-🇪🇸 → 🇫🇷 &nbsp;Spanish developer based in **Rennes**, working in three languages — code included.
+🇪🇸 → 🇫🇷 **Spanish software developer based in Rennes, France.**
 
-I started out making repetitive work disappear: warehouse-management features, RPA bots,
-one-click installers. That taught me to think in systems and unblock people. Now I aim that
-same reflex at **building products** — typed React front-ends with the API, database and auth
-behind them. I care about UIs that feel right and code that's boring to maintain.
+I enjoy turning real problems into useful and maintainable software. My experience ranges from production business applications and process automation to mobile apps, modern front-end development and software deployment.
 
-Right now: **Bac+3 Application Design & Development** at ENI Rennes (work-study) and a 454-hour
-front-end deep-dive with **LemonCode**.
+I started by improving a warehouse management system used by real clients, building RPA automations with Python, UiPath and Robocorp, and contributing to embedded Java modules connected to RFID systems in airport logistics.
+
+More recently, I automated a client software installation process, reducing its duration from around **90 minutes to 30 minutes** using Inno Setup, Pascal, PowerShell and Batch scripts.
+
+Today, I am expanding my product-development skills through projects such as:
+
+* 🏠 **Domus:** a multi-user household PWA built with React, TypeScript, Supabase and PostgreSQL, including authentication, roles, permissions and shared-expense management.
+* 📄 **DocScanner:** a privacy-focused React Native application for scanning, organising, signing and exporting documents, with on-device OCR and PDF generation.
+
+My approach is simple:
+
+> Understand the need → check the existing solution → build → test → improve.
+
+I care about clear interfaces, practical architecture, reliable automation and code that remains understandable after the feature has shipped.
+
+📚 Currently completing a **454-hour Front-end Developer programme with LemonCode**, focused on modern JavaScript, TypeScript, React, testing, APIs and professional development practices.
+
+🎯 Looking for a **work-study opportunity in Application Design & Development**, while also remaining open to software development roles and other relevant professional opportunities.
+
+📍 Rennes, France  
+🌍 Spanish · French · Technical English  
+💬 Feedback-friendly, curious and always learning
 
 ## 🛠️ Tech I build with
 
 <div align="center">
 
-**Front-end**
+**Front-end & Web**
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,astro,tailwind,sass,vite,vitest" alt="Front-end stack" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,astro,tailwind,sass" alt="Front-end and web stack" />
 
-**Back-end**
+**Back-end, APIs & Data**
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,php,java,graphql,powershell" alt="Back-end stack" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,php,java,graphql,supabase,postgres,mysql" alt="Back-end, API and database stack" />
 
-**Data & Tooling**
+**Development & DevOps Tools**
 
-<img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,docker,git,github,postman,vscode" alt="Data and tooling" />
+<img src="https://skillicons.dev/icons?i=vite,docker,git,postman,powershell" alt="Development and DevOps tools" />
+
+**Automation & RPA**
+
+<img src="assets/uipath.svg" alt="UiPath" height="48" />
+<img src="assets/robocorp.svg" alt="Robocorp" height="48" />
+<img src="assets/inno-setup.svg" alt="Inno Setup" height="48" />
+<img src="assets/rpa.svg" alt="RPA" height="48" />
+
+<sub>UiPath · Robocorp · Inno Setup · RPA</sub>
 
 </div>
 
 ## 🚀 What I'm building
 
 ### 🏠 [Domus](https://casgdeveloppeurdomus.netlify.app) &nbsp;—&nbsp; shared-household finances, done properly
+
 A PWA for households to split and track expenses together: multi-user spaces, role-based
 permissions, audit history and full i18n. Built as a typed monorepo with real data rules,
 not a toy CRUD.
+
 > **React · TypeScript · Vite · Supabase / PostgreSQL (RLS) · TanStack Router & Query · Zod · Vitest · pnpm**
 
 ### 📄 [DocScanner](https://developerportfoliocasg.netlify.app) &nbsp;—&nbsp; scan-to-PDF, offline & private
+
 A mobile app to scan, organise, sign, export and translate documents entirely on-device.
 Offline-first, no data leaves the phone.
+
 > **React Native · Expo · TypeScript · ML Kit (OCR) · Zustand · i18next**
 
 <div align="center">
@@ -83,6 +113,6 @@ cristian@rennes:~$ ./contact --dev
 
 <div align="center">
 
-*Have a product to build or a process everyone hates doing by hand? Let's talk.*
+_Have a product to build or a process everyone hates doing by hand? Let's talk._
 
 </div>

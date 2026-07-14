@@ -1,24 +1,20 @@
 <div align="center">
 
 <!-- Typing banner — echoes the typewriter on my portfolio -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=7CC3C7&center=true&vCenter=true&width=640&lines=Turning+manual+processes+into+software;WMS+%C2%B7+RPA+robots+%C2%B7+automated+installers;Software+Developer+%C2%B7+Rennes%2C+France" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=7CC3C7&center=true&vCenter=true&width=680&lines=From+automation+scripts+to+shipping+products;React+%C2%B7+TypeScript+%C2%B7+Node+%C2%B7+Python+%C2%B7+PostgreSQL;Full-stack+dev+in+Rennes+%C2%B7+ES+%C2%B7+FR+%C2%B7+EN" alt="Typing intro" />
 
-# Hi, I'm Cristian SANCHEZ GALEANO 👋
+# Cristian SANCHEZ GALEANO
 
-**Software Developer · Automation & RPA**
-
-I don't just write code — I make repetitive work disappear. From Santiago de
-Compostela 🇪🇸 to Rennes 🇫🇷, I ship business apps, software robots and
-installers that run while everyone else sleeps.
+### Software Developer — I build web & mobile products, front to back.
 
 <a href="https://developerportfoliocasg.netlify.app">
   <img src="https://img.shields.io/badge/Portfolio-215E61?style=for-the-badge&logo=astro&logoColor=FFFBF8&labelColor=233D4D" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/cristian-sanchez-galeano">
-  <img src="https://img.shields.io/badge/LinkedIn-215E61?style=for-the-badge&logo=linkedin&logoColor=FFFBF8&labelColor=233D4D" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-215E61?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGRkJGOCI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjQgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNHptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B&labelColor=233D4D" alt="LinkedIn" />
 </a>
 <a href="mailto:casg.cristian.development@hotmail.com">
-  <img src="https://img.shields.io/badge/Email-215E61?style=for-the-badge&logo=maildotru&logoColor=FFFBF8&labelColor=233D4D" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-215E61?style=for-the-badge&logo=gmail&logoColor=FFFBF8&labelColor=233D4D" alt="Email" />
 </a>
 
 </div>
@@ -27,61 +23,66 @@ installers that run while everyone else sleeps.
 
 ## 🧭 About me
 
-- 🏭 Shipped and maintained a **WMS (warehouse management system)** used in real logistics operations — PHP, JavaScript, Bootstrap.
-- 🤖 Built **RPA robots** with **UiPath** and **Robocorp (Python)** that automated repetitive back-office processes.
-- 📦 Automated a full software deployment at **DeepHawk (Rennes)**: **Inno Setup** installer + PowerShell/BAT environment configuration.
-- 🛫 Improved the **embedded Java modules** of RFID tag-detection antennas used in an airport.
-- 📚 Always sharpening the toolkit: **React/TypeScript** (front-end certification, LemonCode — 454 h) and French on top of Spanish and English.
-- 🥾 Off the keyboard: hiking new trails, Mediterranean & Latin American cooking, and a healthy FPS/RTS/MMORPG habit.
+🇪🇸 → 🇫🇷 &nbsp;Spanish developer based in **Rennes**, working in three languages — code included.
 
-## 🛠️ Stack
+I started out making repetitive work disappear: warehouse-management features, RPA bots,
+one-click installers. That taught me to think in systems and unblock people. Now I aim that
+same reflex at **building products** — typed React front-ends with the API, database and auth
+behind them. I care about UIs that feel right and code that's boring to maintain.
+
+Right now: **Bac+3 Application Design & Development** at ENI Rennes (work-study) and a 454-hour
+front-end deep-dive with **LemonCode**.
+
+## 🛠️ Tech I build with
 
 <div align="center">
 
 **Front-end**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,tailwind,bootstrap,sass" alt="Front-end stack" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,astro,tailwind,sass,vite,vitest" alt="Front-end stack" />
 
-**Back-end & Automation**
+**Back-end**
 
-<img src="https://skillicons.dev/icons?i=python,java,php,powershell,mysql" alt="Back-end stack" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,php,java,graphql,powershell" alt="Back-end stack" />
 
-<img src="https://img.shields.io/badge/UiPath-215E61?style=for-the-badge&logo=uipath&logoColor=FFFBF8&labelColor=233D4D" alt="UiPath" />
-<img src="https://img.shields.io/badge/Robocorp-215E61?style=for-the-badge&labelColor=233D4D" alt="Robocorp" />
-<img src="https://img.shields.io/badge/Inno_Setup-215E61?style=for-the-badge&labelColor=233D4D" alt="Inno Setup" />
+**Data & Tooling**
 
-**Tools & Methods**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
-
-<img src="https://img.shields.io/badge/UML-215E61?style=for-the-badge&labelColor=233D4D" alt="UML" />
-<img src="https://img.shields.io/badge/RPA-215E61?style=for-the-badge&labelColor=233D4D" alt="RPA" />
+<img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,docker,git,github,postman,vscode" alt="Data and tooling" />
 
 </div>
 
-## 📊 GitHub stats
+## 🚀 What I'm building
+
+### 🏠 [Domus](https://casgdeveloppeurdomus.netlify.app) &nbsp;—&nbsp; shared-household finances, done properly
+A PWA for households to split and track expenses together: multi-user spaces, role-based
+permissions, audit history and full i18n. Built as a typed monorepo with real data rules,
+not a toy CRUD.
+> **React · TypeScript · Vite · Supabase / PostgreSQL (RLS) · TanStack Router & Query · Zod · Vitest · pnpm**
+
+### 📄 [DocScanner](https://developerportfoliocasg.netlify.app) &nbsp;—&nbsp; scan-to-PDF, offline & private
+A mobile app to scan, organise, sign, export and translate documents entirely on-device.
+Offline-first, no data leaves the phone.
+> **React Native · Expo · TypeScript · ML Kit (OCR) · Zustand · i18next**
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=CASG-CRISTIAN&show_icons=true&rank_icon=github&bg_color=233D4D&title_color=7CC3C7&icon_color=D2C1B6&text_color=FFFBF8&border_color=4A6375" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CASG-CRISTIAN&layout=compact&langs_count=8&bg_color=233D4D&title_color=7CC3C7&text_color=FFFBF8&border_color=4A6375" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=CASG-CRISTIAN&background=233D4D&ring=7CC3C7&fire=D2C1B6&currStreakLabel=7CC3C7&currStreakNum=FFFBF8&sideLabels=FFFBF8&sideNums=7CC3C7&dates=D2C1B6&border=4A6375" alt="Contribution streak" />
+<sub>More on the <a href="https://developerportfoliocasg.netlify.app">portfolio</a> — including my journey, background and CV.</sub>
 
 </div>
 
-## 📬 Contact
+## 📬 Let's talk
 
 ```bash
 cristian@rennes:~$ ./contact --dev
-→ status     ● software developer — Rennes, France (ES · FR · EN)
+→ role       full-stack developer — front-end focused
+→ location   Rennes, France  ·  ES (native) · FR (B2) · EN (B1)
 → email      casg.cristian.development@hotmail.com
 → linkedin   /in/cristian-sanchez-galeano
-→ portfolio/cv  developerportfoliocasg.netlify.app
+→ portfolio  developerportfoliocasg.netlify.app
 ```
 
 <div align="center">
 
-*If your team has a process everyone hates doing by hand, we should talk.*
+*Have a product to build or a process everyone hates doing by hand? Let's talk.*
 
 </div>

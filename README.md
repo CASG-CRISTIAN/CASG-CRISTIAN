@@ -22,33 +22,39 @@
 ---
 
 ## 🧭 About me
+🚀 Motivation
 
-🇪🇸 → 🇫🇷 **Spanish software developer based in Rennes, France.**
+Software developer driven by curiosity, continuous learning and the creation of useful digital products.
 
-I enjoy turning real problems into useful and maintainable software. My experience ranges from production business applications and process automation to mobile apps, modern front-end development and software deployment.
+💡 How I think
 
-I started by improving a warehouse management system used by real clients, building RPA automations with Python, UiPath and Robocorp, and contributing to embedded Java modules connected to RFID systems in airport logistics.
+I enjoy understanding how things work, simplifying complex processes and turning ideas into practical software. I care about clean interfaces, reliable code and solutions that remain easy to understand as they evolve.
 
-More recently, I automated a client software installation process, reducing its duration from around **90 minutes to 30 minutes** using Inno Setup, Pascal, PowerShell and Batch scripts.
+🛠️ My background
 
-Today, I am expanding my product-development skills through projects such as:
+My background has given me experience across web development, automation, software deployment and business applications. This variety has helped me develop a flexible mindset and become comfortable learning new technologies, working with existing systems and adapting to different technical environments.
 
-* 🏠 **Domus:** a multi-user household PWA built with React, TypeScript, Supabase and PostgreSQL, including authentication, roles, permissions and shared-expense management.
-* 📄 **DocScanner:** a privacy-focused React Native application for scanning, organising, signing and exporting documents, with on-device OCR and PDF generation.
+📚 What I’m learning
+
+I am currently strengthening my skills in modern front-end and full-stack development, with a particular interest in TypeScript, React, APIs, databases, authentication and application architecture.
+
+🤝 How I work
+
+I value continuous learning, constructive feedback and teamwork. I am always looking for better ways to design, build and improve software.
 
 My approach is simple:
 
-> Understand the need → check the existing solution → build → test → improve.
+> Understand the need → explore the existing solution → build → test → improve.
 
-I care about clear interfaces, practical architecture, reliable automation and code that remains understandable after the feature has shipped.
+I value clean interfaces, reliable code, teamwork and constructive feedback.
 
-📚 Currently completing a **454-hour Front-end Developer programme with LemonCode**, focused on modern JavaScript, TypeScript, React, testing, APIs and professional development practices.
-
-🎯 Looking for a **work-study opportunity in Application Design & Development**, while also remaining open to software development roles and other relevant professional opportunities.
-
-📍 Rennes, France  
-🌍 Spanish · French · Technical English  
+📚 Currently completing a [**454-hour Front-end Developer programme with LemonCode**](https://www.lemoncode.net/cursos/master-front-end.html)
+🎯 Looking for a **work-study opportunity**, while remaining open to software development roles
+📍 Ille-et-Vilaine, France
+🌍 Spanish · French · Technical English
 💬 Feedback-friendly, curious and always learning
+
+---
 
 ## 🛠️ Tech I build with
 
@@ -77,20 +83,19 @@ I care about clear interfaces, practical architecture, reliable automation and c
 
 </div>
 
+---
+
 ## 🚀 What I'm building
 
 ### 🏠 [Domus](https://casgdeveloppeurdomus.netlify.app) &nbsp;—&nbsp; shared-household finances, done properly
 
-A PWA for households to split and track expenses together: multi-user spaces, role-based
-permissions, audit history and full i18n. Built as a typed monorepo with real data rules,
-not a toy CRUD.
+A multi-user household PWA built with React, TypeScript, Supabase and PostgreSQL, including authentication, roles, permissions and shared-expense management.
 
-> **React · TypeScript · Vite · Supabase / PostgreSQL (RLS) · TanStack Router & Query · Zod · Vitest · pnpm**
+> **React · TypeScript · Vite · Supabase / PostgreSQL (RLS) · TanStack Router & Query · Zod · Vitest**
 
 ### 📄 [DocScanner](https://developerportfoliocasg.netlify.app) &nbsp;—&nbsp; scan-to-PDF, offline & private
 
-A mobile app to scan, organise, sign, export and translate documents entirely on-device.
-Offline-first, no data leaves the phone.
+A privacy-focused, offline-first React Native application for scanning, organising, signing, translating and exporting documents, featuring on-device OCR and PDF generation. All processing happens locally, so no data ever leaves the user’s phone.
 
 > **React Native · Expo · TypeScript · ML Kit (OCR) · Zustand · i18next**
 
@@ -100,19 +105,17 @@ Offline-first, no data leaves the phone.
 
 </div>
 
+---
+
 ## 📬 Let's talk
 
 ```bash
 cristian@rennes:~$ ./contact --dev
-→ role       full-stack developer — front-end focused
-→ location   Rennes, France  ·  ES (native) · FR (B2) · EN (B1)
+→ role       Software Developer
+→ location   Ille-et-Vilaine, France  ·  ES (native) · FR (B2) · EN (B1)
 → email      casg.cristian.development@hotmail.com
 → linkedin   /in/cristian-sanchez-galeano
 → portfolio  developerportfoliocasg.netlify.app
 ```
 
-<div align="center">
 
-_Have a product to build or a process everyone hates doing by hand? Let's talk._
-
-</div>
